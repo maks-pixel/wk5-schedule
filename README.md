@@ -4,6 +4,7 @@
  ## Description
  
  Schedule your work day with a with in put saved to your localStorage and boxes tht change colour based on what time of day it is.
+  ![Screenshot](assets/image/screenshot.png) 
 
  ## Table of Contents
  * [Installation](#Installation)
