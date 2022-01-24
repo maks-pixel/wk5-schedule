@@ -13,7 +13,7 @@
  * [Questions](#Questions)
  
  ## Installation
- Download this repository or open up the deployed webpage
+ Download this repository or open up the deployed webpage at https://maks-pixel.github.io/wk5-schedule/
 
  ## Usage
  input your tasks in the text boxes and save your input by clicking the saved button on the right side of each box 
